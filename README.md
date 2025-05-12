@@ -21,7 +21,7 @@ A powerful and intelligent search engine that integrates Google Custom Search wi
 
 * **Python 3.9+**
 * **Google Custom Search API**
-* **Google Gemini API (`gemini-pro`)**
+* **Google Gemini API (`gemini-2.0-flash`)**
 * **Pandas & Requests**
 * **SQLite (via `sqlite3`)**
 * **dotenv for config management**
