@@ -105,7 +105,6 @@ Built using:
 
 * [Google Custom Search API](https://developers.google.com/custom-search)
 * [Google Gemini (Generative AI)](https://ai.google.dev/)
-* [OpenAI](https://openai.com)
 
 ---
 
