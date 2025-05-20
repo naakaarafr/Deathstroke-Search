@@ -71,8 +71,8 @@ print(results_df.head())
 1. **Clone the repo:**
 
    ```bash
-   git clone https://github.com/your-username/smart-search-engine.git
-   cd smart-search-engine
+   git clone https://github.com/naakaarafr/Deathstroke-Search.git
+   cd Deathstroke-Search
    ```
 
 2. **Install dependencies:**
